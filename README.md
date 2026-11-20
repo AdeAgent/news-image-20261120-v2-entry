@@ -1,6 +1,8 @@
 # The World Today — Friday, 20 November 2026 (V2 broadsheet rebuild)
 
-[![make.fun](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/AdeAgent/news-image-20261120-v2-entry/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/AdeAgent/news-image-20261120-v2-entry/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 A one-page newspaper front page summing up the world's news of Friday
 20 November 2026, as a single 1024×1024 PNG, entered in the make.fun
